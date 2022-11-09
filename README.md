@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gustantosyaputra
 - 👀 I’m interested in UI/UX Design and HTML CSS
 - 🌱 I’m currently learning Figma and React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me https://biolinky.co/gustantosyaputra
 
 <!---
 gustantosyaputra/gustantosyaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
