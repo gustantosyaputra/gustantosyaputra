@@ -1,51 +1,25 @@
+# Charles 'eallion' Chin 😃
 
-### It's a me Daggy
+- Full Stack Operator
+- Working from home
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
+Here are some ideas to get you started:
 
-----
+- 🔭 I’m currently working from home.
+- 🌱 I’m currently learning English.
+- 👯 I’m looking to collaborate on E-commerce.
+- 🤔 I’m looking for help with Immigration.
+- 💬 Ask me about you want.
+- 📫 How to reach me: [Keybase](https://keybase.io/eallion)
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: Fun fat.
 
-A high schooler from India with a passion for full stack development.I love python and Js seems to be my new love. 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eallion&show_icons=true)](https://github.com/gustantosyaputra/github-readme-stats)
 
------
+[![Twitter Badge](https://img.shields.io/badge/@eallion-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/eallion)](https://twitter.com/eallion) 
+[![Blog Badge](https://img.shields.io/badge/eallion.com-FF4088?style=flat&labelColor=FF4088&logo=Hugo&logoColor=white&link=https://eallion.com/)](https://eallion.com/)
+[![Gmail Badge](https://img.shields.io/badge/eallions@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eallions@gmail.com)](mailto:eallions@gmail.com) 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.eallion)
+![](https://komarev.com/ghpvc/?username=eallion&color=0366d6)
 
-Skills:
-
-- Web Develpment with React.js
-- Machine learning with Sckit-learn
-- API with FastAPI
-- Discord bots with dpy
-- Dockerizing Apps
-
------
-<a href="https://github.com/Daggy1234">
-  <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" />
-</a>
-
-
-***
-
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true" />
-</a>
-
----
-
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact" />
-</a>
-
-
-Feel free to chat with me on discord.
-
------
-
-
-Have a Great Day!
-
-⭐️ From [Daggy1234](https://github.com/Daggy1234)
-
-<!---
-gustantosyaputra/gustantosyaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️ From [eallion](https://github.com/eallion)
