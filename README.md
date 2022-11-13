@@ -1,16 +1,9 @@
 ### Helo, I'm Gustanto Syaputra👋
 
-<!--
-**gustantosyaputra/gustantosyaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Supply Chain Corporate as UI/UX Designer
+- 🌱 I’m currently learning React.js & Dev Extreme
+- 👯 I’m looking to collaborate on Instagram or Github
+- 🤔 I’m looking for help with design, figma and a
+- 💬 Ask me about anything 
+- 📫 How to reach me: instagram.com/gustantosyaputra
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Supply Chain Corporate
-- 🌱 I’m currently learning React,js & Dev Extreme
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
